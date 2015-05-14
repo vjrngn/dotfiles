@@ -1,5 +1,5 @@
 # Vagrant
-alias bootup="cd ~/code/Laravel\ Homestead && bash bootup.sh"
+alias bootup="cd ~/code/dotfiles && bash bootup.sh"
 alias vmssh="cd ~/code/Laravel\ Homestead/Homestead && vagrant ssh"
 alias shutDown="cd ~/code/Laravel\ Homestead/Homestead && vagrant halt"
 
